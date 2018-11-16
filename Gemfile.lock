@@ -6,7 +6,7 @@ GEM
       thor (~> 0.19.1)
     line-bot-api (1.2.2)
     mustermann (1.0.2)
-    rack (2.0.5)
+    rack (2.0.)
     rack-protection (2.0.3)
       rack
     sinatra (2.0.3)
